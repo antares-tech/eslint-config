@@ -1,0 +1,31 @@
+{
+	"name": "@antares-tech/eslint-config",
+	"version": "0.1.0",
+	"description": "Antares Tech Eslint configuration",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/antares-tech/eslint-config.git"
+	},
+	"bugs": {
+		"url": "https://github.com/antares-tech/eslint-config/issues"
+	},
+	"homepage": "https://github.com/antares-tech/eslint-config",
+	"keywords": ["eslint-config"],
+	"author": "Soumik <soumik@antares-tech.com>",
+	"license": "MIT",
+	"engines": {
+		"node": ">= 18",
+		"npm": ">= 9"
+	},
+	"dependencies": {
+		"eslint-plugin-react": "^7.32.2",
+		"eslint-plugin-react-hooks": "^4.6.0"
+	},
+	"peerDependecies": {
+		"eslint": ">= 8.0.0"
+	}
+}
