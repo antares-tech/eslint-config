@@ -2,7 +2,7 @@ module.exports = {
 	extends: "eslint:recommended",
 	rules: {
 		// https://eslint.org/docs/latest/rules/indent
-		"indent": ["warn", "tab", { "SwitchCase" : 2 }],
+		"indent": ["warn", "tab", { "SwitchCase" : 1 }],
 
 		// https://eslint.org/docs/latest/rules/linebreak-style
 		"linebreak-style": ["warn", "unix"],
