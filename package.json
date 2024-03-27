@@ -1,6 +1,6 @@
 {
 	"name": "@antares-tech/eslint-config",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Antares Tech Eslint configuration",
 	"main": "index.js",
 	"scripts": {
@@ -14,7 +14,9 @@
 		"url": "https://github.com/antares-tech/eslint-config/issues"
 	},
 	"homepage": "https://github.com/antares-tech/eslint-config",
-	"keywords": ["eslint-config"],
+	"keywords": [
+		"eslint-config"
+	],
 	"author": "Soumik <soumik@antares-tech.com>",
 	"license": "MIT",
 	"engines": {
